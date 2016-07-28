@@ -1,0 +1,149 @@
+{
+  "title": "Cavendish",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Building",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Roof",
+          "id": 4,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "2": {
+          "title": "Windows",
+          "id": 5,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "3": {
+          "title": "Damp",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Gym",
+              "id": 7,
+              "ideas": {},
+              "attr": {
+                "position": [
+                  227.5,
+                  -75,
+                  1
+                ],
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            },
+            "2": {
+              "title": "Bedrooms",
+              "id": 9,
+              "attr": {
+                "position": [
+                  229.5,
+                  -17.5,
+                  2
+                ],
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            },
+            "3": {
+              "title": "Lounge",
+              "id": 10,
+              "attr": {
+                "position": [
+                  230.5,
+                  32.5,
+                  3
+                ],
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-1": {
+      "title": "Business",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "LID",
+          "id": 11,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "3": {
+          "title": "Educape",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "Leather",
+              "id": 14,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            },
+            "2": {
+              "title": "Book binding",
+              "id": 15,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            },
+            "3": {
+              "title": "Teaching",
+              "id": 16,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff99cc"
+        }
+      }
+    }
+  },
+  "links": []
+}
